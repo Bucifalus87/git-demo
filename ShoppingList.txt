@@ -4,3 +4,5 @@ apa
 lapte
 rosi
 branza
+banane
+mere
