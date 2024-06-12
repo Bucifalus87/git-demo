@@ -5,3 +5,4 @@ lapte
 rosi
 branza
 banane
+capsuni
